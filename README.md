@@ -9,6 +9,6 @@ Mes réseaux sociaux :
 
 - [Twitter](https://twitter.com/maelmagnien)
 - [Instagram](https://instagram.com/mael.magnien)
-- [Teamspeak](ts3server://ts.maelmagnien.fr/)
+- [Teamspeak](ts3server://ts.maelmagnien.fr)
 
 Mon [Site](https://maelmagnien.fr)
