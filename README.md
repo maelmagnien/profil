@@ -8,7 +8,6 @@ Mon email Pro : [contact@maelmagnien.fr](mailto:contact@maelmagnien.fr)
 
 Mes réseaux sociaux : 
 
-- [Twitter](https://twitter.com/mmaerumagunien)
 - [Instagram](https://instagram.com/mael.magnien)
 - Teamspeak : ts.maelmagnien.fr
 
